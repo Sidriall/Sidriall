@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🧑🏼‍💻 Skills: NODE JS / REACT / JS / HTML / CSS
+
 <!--
 **Sidriall/Sidriall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
