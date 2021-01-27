@@ -2,6 +2,8 @@
 
 🧑🏼‍💻 Skills: NODE JS / REACT / JS / HTML / CSS
 
+![alt text](https://www.codewars.com/users/Sidriall/badges/micro)
+
 <!--
 **Sidriall/Sidriall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
